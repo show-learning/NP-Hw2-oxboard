@@ -1,6 +1,8 @@
 # NP-Hw2-oxboard
 2021/12/06 AT CCU
 
+下OOXX棋的網路程式 設計一對client--server的OX棋下棋程式
+
 基本要求
 1. 允許至少2個client同時登錄至server。
 2. client的使用者可以列出已登入的使用者名單。
